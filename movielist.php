@@ -246,7 +246,7 @@ body {
         while ($data = $result->fetch(PDO::FETCH_ASSOC)){
              $filepath="poster/".$data['image'];
             
-
+      // yasin
             ?>
           
                     <tr>
